@@ -18,9 +18,17 @@ potential areas for improving profitability.
 - Power BI
 - DAX
 
-## 📈 Dashboard
+## 📈 Power BI Dashboard
 
-The Power BI dashboard contains three pages:
+The interactive Power BI dashboard provides a single-page view of:
+
+- Sales Performance
+- Customer Analysis
+- Product Performance
+- Regional Analysis
+- Profitability Analysis
+- Discount Analysis
+- Key Business Insights
 
 ### 1. Executive Overview
 - Total Sales
