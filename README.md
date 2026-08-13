@@ -13,10 +13,10 @@ potential areas for improving profitability.
 
 ## 🛠️ Tools & Technologies
 
-- SQL / MySQL
+- MySQL
+- SQL
 - Power BI
 - DAX
-- Excel / CSV
 
 ## 📈 Dashboard
 
